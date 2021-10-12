@@ -1,7 +1,7 @@
 ### About Me
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TreeDev03&showicons=true)]()<br>
-[!Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreeDev03&repo=NumberGuess)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreeDev03&layout=compact)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreeDev03&repo=NumberGuess)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreeDev03&layout=compact)]()
 
 <!--
 **TreeDev03/TreeDev03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
