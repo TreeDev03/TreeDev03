@@ -1,10 +1,13 @@
-### Hi there 👋
+### About Me
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin8x&showicons=true)]()<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&layout=compact)]() [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreeDev03&repo=NumberGuess)](https://github.com/TreeDev03/NumberGuess)
 
 <!--
 **TreeDev03/TreeDev03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+a
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
