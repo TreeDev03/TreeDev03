@@ -3,7 +3,7 @@
 
 ## I'm a Computer Science Student, Full-Time Learner, and Big Brother!!
 
-- 🔭 I just launched an App: ![googleplay](https://user-images.githubusercontent.com/92409958/144038965-b6a4e38a-0606-47c2-ad13-03fd9b2c7b43.png)
+- 🔭 I just launched an App: <a href="https://play.google.com/store/apps/details?id=com.trevDev.comsci&hl=en_US&gl=US" target="_blank">Google Play Store</a>
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021-2022 Goals: Get an internship and contribute to Open Source projects
