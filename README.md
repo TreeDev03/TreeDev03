@@ -26,10 +26,22 @@ You can find me on <a href="mailto:trevorstsurin03@gmail.com">Gmail</a>, or on <
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="Java" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" />] [java]
-[<img align="left" alt="C#" width="26px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />] [C#]
-[<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />] [py]
-[<img align="left" alt="C#" width="26px" src="https://yt3.ggpht.com/ytc/AKedOLSQacj0rCD-LjtaWdvzH50pCdvBGLhLq8UtI_Y2DA=s900-c-k-c0x00ffffff-no-rj" />] [and]
+ <a href = "https://www.java.com/en/" target = "_self"> 
+         <img src = "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" alt = "Java" border = "0" width="26px"/> 
+      </a>
+ <a href = "https://www.python.org/" target = "_self"> 
+         <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="26px" alt = "Python" border = "0" width="26px"/> 
+      </a>
+   <a href = "https://developer.android.com/" target = "_self"> 
+         <img src = "https://yt3.ggpht.com/ytc/AKedOLSQacj0rCD-LjtaWdvzH50pCdvBGLhLq8UtI_Y2DA=s900-c-k-c0x00ffffff-no-rj" width="26px" alt = "Andriod" border = "0" /> 
+      </a>
+     <a href = "https://docs.microsoft.com/en-us/dotnet/csharp/" target = "_self"> 
+         <img src = "https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="26px" alt = "C#" border = "0" /> 
+      </a>
+   
+ 
+
+
 
 
 
@@ -49,11 +61,8 @@ You can find me on <a href="mailto:trevorstsurin03@gmail.com">Gmail</a>, or on <
 
 </details>
 
-[website]: https://codeSTACKr.com
-[and]: https://developer.android.com/
-[py]: https://www.python.org/
-[C#]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[java]: https://www.java.com/en/
+
+
 [git]: https://git-scm.com/
 [vs]: https://code.visualstudio.com/
 [html]: https://html.com/
