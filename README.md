@@ -7,9 +7,11 @@
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021-2022 Goals: Get an internship and contribute to Open Source projects
-- ⚡ Fun fact: I love to play soccer and dance
+- ⚡ Fun fact: I love to play soccer and dance 
+<br>
 
 ### Connect With Me:
+<br>
 
 You can find me on <a href="mailto:trevorstsurin03@gmail.com">Gmail</a>, or on <a href="https://www.linkedin.com/in/trevor-st-surin-703691221/">Linkedin</a>
 
@@ -19,24 +21,28 @@ You can find me on <a href="mailto:trevorstsurin03@gmail.com">Gmail</a>, or on <
 [2]: https://www.linkedin.com/in/heinz-martin/
 <br />
 
-### Languages and Tools:
+ <hr style="border:2px solid gray"> </hr>
+ <br>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+### Languages and Tools:
+<br>
+
+[<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs]
+[<img align="left" alt="HTML5" width="35px" height="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="35px" height="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="SQL" width="35px" height="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="Git" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
  <a href = "https://www.java.com/en/" target = "_self"> 
-         <img src = "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" alt = "Java" border = "0" width="26px"/> 
+         <img src = "https://static.wikia.nocookie.net/logopedia/images/e/e7/Java_%28Old%29.svg/revision/latest?cb=20180314141851" alt = "Java" width="35px" height="35px"/> 
       </a>
  <a href = "https://www.python.org/" target = "_self"> 
-         <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="26px" alt = "Python" border = "0" width="26px"/> 
+         <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  alt = "Python" border = "0" width="35px" height="35px"/> 
       </a>
    <a href = "https://developer.android.com/" target = "_self"> 
-         <img src = "https://yt3.ggpht.com/ytc/AKedOLSQacj0rCD-LjtaWdvzH50pCdvBGLhLq8UtI_Y2DA=s900-c-k-c0x00ffffff-no-rj" width="26px" alt = "Andriod" border = "0" /> 
+         <img src = "https://yt3.ggpht.com/ytc/AKedOLSQacj0rCD-LjtaWdvzH50pCdvBGLhLq8UtI_Y2DA=s900-c-k-c0x00ffffff-no-rj" width="35px" height="35px" alt = "Andriod" border = "0" /> 
       </a>
      <a href = "https://docs.microsoft.com/en-us/dotnet/csharp/" target = "_self"> 
-         <img src = "https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="26px" alt = "C#" border = "0" /> 
+         <img src = "https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="35px" height="35px" alt = "C#" border = "0" /> 
       </a>
    
  
@@ -51,15 +57,10 @@ You can find me on <a href="mailto:trevorstsurin03@gmail.com">Gmail</a>, or on <
 ---
 
 
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TreeDev03&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreeDev03&theme=radical)](https://github.com/TreeDev03/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreeDev03&theme=radical&repo=comsci-books)](https://github.com/TreeDev03/comsci-books)
 
 
 
