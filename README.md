@@ -3,8 +3,8 @@
 
 ## I'm a Computer Science Student, Full-Time Learner, and Big Brother!!
 
-- 🔭 I just launched an App: <a href="https://play.google.com/store/apps/details?id=com.trevDev.comsci&hl=en_US&gl=US" target="_blank">Google Play Store</a>
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I'm currently tutoring : <a href="https://takelessons.com/profile/trevor-s14" target="_blank">TakeLessons</a>
+- 🌱 I’m currently learning Spring Boot and Django
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2023-2024 Goals: Get an internship and contribute to Open Source projects
 - ⚡ Fun fact: I love to play soccer and dance 
