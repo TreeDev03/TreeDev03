@@ -6,7 +6,7 @@
 - 🔭 I just launched an App: <a href="https://play.google.com/store/apps/details?id=com.trevDev.comsci&hl=en_US&gl=US" target="_blank">Google Play Store</a>
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2021-2022 Goals: Get an internship and contribute to Open Source projects
+- 🥅 2023-2024 Goals: Get an internship and contribute to Open Source projects
 - ⚡ Fun fact: I love to play soccer and dance 
 <br>
 
@@ -59,7 +59,7 @@ You can find me on <a href="mailto:trevorstsurin03@gmail.com">Gmail</a>, or on <
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TreeDev03&theme=radical)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreeDev03&theme=radical&repo=amazon-web-scraper)](https://github.com/TreeDev03/amazon-web-scraper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreeDev03&theme=radical&repo=Discord-Bot)](https://github.com/TreeDev03/Discord-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreeDev03&theme=radical&repo=comsci-books)](https://github.com/TreeDev03/comsci-books)
 
 
