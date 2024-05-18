@@ -59,7 +59,7 @@ You can find me on <a href="mailto:trevorstsurin03@gmail.com">Gmail</a>, or on <
 
 
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreeDev03&theme=radical&repo=Discord-Bot)](https://github.com/TreeDev03/Discord-Bot)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TreeDev03&theme=radical&repo=comsci-books)](https://github.com/TreeDev03/comsci-books)
 
 
