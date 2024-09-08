@@ -1,7 +1,7 @@
 ### Hi there, I'm Trevor St-Surin 
 
 
-## I'm a Computer Science Student, Full-Time Learner, and Big Brother!!
+## I'm a Computer Science Student, Full-Time Learner, and Big Brother!
 
 - 🔭 I'm currently tutoring : <a href="https://takelessons.com/profile/trevor-s14" target="_blank">TakeLessons</a>
 - 🌱 I’m currently learning Spring Boot and Django
