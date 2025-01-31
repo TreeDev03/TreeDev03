@@ -3,10 +3,10 @@
 
 ## I'm a Computer Science Student, Full-Time Learner, and Big Brother!
 
-- 🔭 I'm currently tutoring : <a href="https://takelessons.com/profile/trevor-s14" target="_blank">TakeLessons</a>
+- 🔭 I'm currently tutoring : <a href="https://www.wyzant.com/Tutors/TrevS4" target="_blank">Wyzant</a>
 - 🌱 I’m currently learning Spring Boot and Django
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2023-2024 Goals: Get an internship and contribute to Open Source projects
+- 🥅 2025-2026 Goals: Get an internship and contribute to Open Source projects
 - ⚡ Fun fact: I love to play soccer and dance 
 <br>
 
